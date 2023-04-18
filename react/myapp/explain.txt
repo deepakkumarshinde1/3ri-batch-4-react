@@ -1,0 +1,13 @@
+public 
+    index.html
+    all images
+    manifest.json
+    robots.txt
+    favicon
+
+src
+    all js files
+    all css files
+    all css background image
+    all css fonts
+    all app testing files
